@@ -102,17 +102,3 @@ bash
 poetry install && alembic upgrade head
 📄 Licença
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para detalhes.
-
-<p align="center"> Desenvolvido com ❤️ por <a href="https://github.com/djchristiandf">Christian Barbosa</a> </p> ```
-Destaques do README:
-Cabeçalho visual com badges e emojis
-
-Seção de autor com links sociais
-
-Guia passo-a-passo para instalação
-
-Tabela de rotas para rápida consulta
-
-Instruções de deploy para dois serviços populares
-
-Formatação consistente com emojis temáticos
